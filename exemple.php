@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+
+<html>
+
+ <body>
 <h1>Exo 1, petit 1</h1>
 
 <?php
@@ -53,4 +58,7 @@ echo ($i) ;
 echo ("<hr>") ;
 }
 ?>
+  
+ </body>
 
+</html>
